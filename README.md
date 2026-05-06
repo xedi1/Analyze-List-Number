@@ -8,7 +8,7 @@
 
 A simple, interactive Java console application to perform basic statistical analysis on a list of numbers.
 
-[Report Bug](https://github.com/xedi1/YOUR_REPO_NAME/issues) · [Request Feature](https://github.com/xedi1/YOUR_REPO_NAME/issues)
+[Report Bug](https://github.com/xedi1/YOUR_REPO_NAME/issues) · [Request Feature](https://github.com/xedi1/Analyze-List-Number/issues)
 
 </div>
 
@@ -39,11 +39,11 @@ To run this project, you will need to have Java installed on your machine.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/xedi1/YOUR_REPO_NAME.git
+   git clone https://github.com/xedi1/Analyze-List-Number.git
    ```
 2. **Navigate to the directory:**
    ```bash
-   cd YOUR_REPO_NAME
+   cd Analyze-List-Number
    ```
 3. **Compile the Java file:**
    ```bash
