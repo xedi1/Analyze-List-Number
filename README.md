@@ -83,7 +83,8 @@ Count Number Lower Than Average: 3
 
 **Hadi Gholipour**
 
-*   GitHub: [@xedi1](https://github.com/xedi1)
+*   [LinkedIn](https://www.linkedin.com/in/edii1)
+*   [GitHub](https://github.com/xedi1)
 
 ---
 
