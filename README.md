@@ -8,7 +8,7 @@
 
 A simple, interactive Java console application to perform basic statistical analysis on a list of numbers.
 
-[Report Bug](https://github.com/xedi1/YOUR_REPO_NAME/issues) · [Request Feature](https://github.com/xedi1/Analyze-List-Number/issues)
+[Report Bug](https://github.com/xedi1/Analyze-List-Number/issues) · [Request Feature](https://github.com/xedi1/Analyze-List-Number/issues)
 
 </div>
 
