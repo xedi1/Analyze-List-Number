@@ -78,7 +78,7 @@ Count Number Upper Than Average: 2
 Count Number Lower Than Average: 3
 
 ---
-
+```
 ## 👨‍💻 Author
 
 **Hadi Gholipour**
